@@ -53,7 +53,7 @@ ECJE Plus is a mobile app that embodies a new level of innovation, designed to r
 
 🌐 Explore the live demo of ECJE Plus: [**Live Demo**](https://example.com) <!-- Replace with the actual live demo URL -->
 
-**Disclaimer:** This repository contains a web-based recreation of the Enigma App. The actual source code of the Enigma App is classified and not included here. This demo serves as a showcase of web technologies and does not represent the full functionality of the real app.
+**Disclaimer:** This repository contains a web-based recreation of the ECJE PLUS App . The actual source code of the ECJE PLUS App  is classified and not included here. This demo serves as a showcase of web technologies and does not represent the full functionality of the real app.
 
 
 Feel free to interact with the app and experience its features in action.
@@ -70,7 +70,13 @@ Feel free to interact with the app and experience its features in action.
 
 ## Overview
 
-ECJE Plus represents a new era in mobile innovation. The app is designed to reshape your digital experience, offering a seamless and feature-rich platform for users. With a user-friendly interface and advanced technology, this app is built to deliver excellence.
+The ECJE PLUS App  is a cutting-edge demonstration of my exceptional technological prowess and innovative solutions.This app showcases the limitless potential of ECJE's services.
+
+At the heart of the ECJE PLUS App  lies our AI-Powered Virtual Assistant, a technological marvel that leverages advanced AI technologies, code name EVA. Built on the foundation of GPT-3 API and Eleven Labs API, our virtual assistant engages users in natural conversations, provides insightful answers, and offers a seamless experience that's both intuitive and intelligent.
+
+Powered by state-of-the-art AI, the ECJE PLUS App  is more than just a mobile application; it's an intelligent companion that demonstrates the power of AI in transforming how users interact with technology.
+
+Explore the future of AI with the ECJE PLUS App .
 
 ## Tech Stack
 
@@ -91,6 +97,9 @@ ECJE Plus represents a new era in mobile innovation. The app is designed to resh
 ## Features
 
 - **AI-Powered Virtual Assistant:** Experience a cutting-edge AI-powered virtual assistant that leverages the GPT-3 API and Eleven Labs API to engage with users intelligently.
+
+- **Dynamic Background:** With a simple click of a button, users can dynamically change the animated background, allowing them to personalize their experience and set the mood.
+
 
 - **Push Notifications:** Stay informed and connected with push notifications that provide real-time updates.
 
