@@ -4,6 +4,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ECJE APP DEMO</title>
 </head>
+<script>
+  // Function to check if the device is a mobile device
+  function isMobileDevice() {
+    return window.innerWidth <= 768;
+  }
+
+  // Function to redirect if the device is a mobile device
+  function redirectToMobilePage() {
+    if (isMobileDevice()) {
+      window.location.href = "./App.html"; // Replace with your mobile page URL
+    }
+  }
+
+  // Call the function when the page loads
+  window.onload = redirectToMobilePage;
+</script>
+
 <style>
     @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
 * {
@@ -1003,22 +1020,6 @@ toggleButton.addEventListener('click', () => {
     display: none; /* Hide scrollbar for Chrome, Safari, and Opera */
   }
 </style>
-<script>
-  // Function to check if the device is a mobile device
-  function isMobileDevice() {
-    return window.innerWidth <= 768;
-  }
-
-  // Function to redirect if the device is a mobile device
-  function redirectToMobilePage() {
-    if (isMobileDevice()) {
-      window.location.href = "./App.html"; // Replace with your mobile page URL
-    }
-  }
-
-  // Call the function when the page loads
-  window.onload = redirectToMobilePage;
-</script>
 
 
 
