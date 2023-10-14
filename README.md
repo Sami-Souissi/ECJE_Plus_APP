@@ -51,7 +51,7 @@ ECJE Plus is a mobile app that embodies a new level of innovation, designed to r
 
 ## Live Demo
 
-🌐 Explore the live demo of ECJE Plus: [**Live Demo**](https://example.com) <!-- Replace with the actual live demo URL -->
+🌐 Explore the live demo of ECJE Plus: [**Live Demo**](https://sami-souissi.github.io/ECJE_Plus_APP/) <!-- Replace with the actual live demo URL -->
 
 **Disclaimer:** This repository contains a web-based recreation of the ECJE PLUS App . The actual source code of the ECJE PLUS App  is classified and not included here. This demo serves as a showcase of web technologies and does not represent the full functionality of the real app.
 
